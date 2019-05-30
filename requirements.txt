@@ -1,4 +1,11 @@
 -python3
 --pandas
---
+--Libraries Used(Although the first couple are simply for efficiency)
+---markdown
+---numexpr
+---bottleneck
+---pandas-datareader
+---xlxswriter
+---xlrd
+---openpyxl
 
